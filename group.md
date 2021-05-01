@@ -9,8 +9,8 @@
 ## Current students and postdocs
 
 - [Jorge Chávez Carlos](https://scholar.google.com/citations?user=RrAHRMkAAAAJ) (postdoc)
-- [Jorge A. Pérez Hernández](https://scholar.google.com/citations?user=ulksu3gAAAAJ) (PhD student, [MSc thesis](http://oreon.dgbiblio.unam.mx:80/F/J3M7TTB3K64FE2MHH81PQ8AR3GTT8ASV1BNYIL2TB1Y7QBAI2Q-16915?func=service&doc_library=TES01&doc_number=000730443&line_number=0001&func_code=WEB-BRIEF&service_type=MEDIA), BSc thesis)
-- J. Ernesto Carro (PhD student, [MSc thesis](http://oreon.dgbiblio.unam.mx:80/F/J3M7TTB3K64FE2MHH81PQ8AR3GTT8ASV1BNYIL2TB1Y7QBAI2Q-16900?func=service&doc_library=TES01&doc_number=000781161&line_number=0001&func_code=WEB-BRIEF&service_type=MEDIA))
+- [Jorge A. Pérez Hernández](https://scholar.google.com/citations?user=ulksu3gAAAAJ) ([PhD thesis](http://132.248.9.195/ptd2021/febrero/0808716/Index.html), [MSc thesis](http://132.248.9.195/ptd2015/junio/0730443/Index.html), BSc thesis)
+- J. Ernesto Carro (PhD student, [MSc thesis](http://132.248.9.195/ptd2018/octubre/0781161/Index.html))
 - Julián Ramírez Castro (BSc student)
 
 If you are interested in the possibility of a postdoctoral position, PhD thesis, a
