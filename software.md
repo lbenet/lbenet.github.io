@@ -11,7 +11,7 @@ The following are some Julia packages for scientific computing where I have been
 
 - [IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl): Find all roots of a function in a guaranteed way with Julia. D.P. Sanders and \LB
 
-- [ReachabilityAnalysis.jl](ReachabilityAnalysis.jl): Reachability Computations for Dynamical Systems in Julia. M Forets, C. Schilling, D. Freire Caporale, D.P. Sanders, \LB and S. Guadalupe
+- [ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl): Reachability Computations for Dynamical Systems in Julia. M Forets, C. Schilling, D. Freire Caporale, D.P. Sanders, \LB and S. Guadalupe
 
 - [TaylorIntegration.jl](https://github.com/PerezHz/TaylorIntegration.jl): ODE integration using Taylor's method, and more, in Julia. J.A. Pérez-Hernández and \LB \doi{10.5281/zenodo.2562352}
 
