@@ -12,6 +12,8 @@
 - [Jorge A. Pérez Hernández](https://scholar.google.com/citations?user=ulksu3gAAAAJ) ([PhD thesis](http://132.248.9.195/ptd2021/febrero/0808716/Index.html), [MSc thesis](http://132.248.9.195/ptd2015/junio/0730443/Index.html), BSc thesis)
 - J. Ernesto Carro (PhD student, [MSc thesis](http://132.248.9.195/ptd2018/octubre/0781161/Index.html))
 - Julián Ramírez Castro (BSc student)
+- [Uziel Linares](https://github.com/UzielLinares) (GSoC student)
+
 
 If you are interested in the possibility of a postdoctoral position, PhD thesis, a
 master's or undergraduate project in one of [my research areas](/#research_interests), 
@@ -46,7 +48,9 @@ simply get in touch [with me](/#contact).
 of great scientists. -->
 
 - Tomoko Asaga
+- [Denis Boyer](https://www.fisica.unam.mx/personales/boyer/)
 - [Ioanis Brouzos](https://scholar.google.com/citations?user=5satKewAAAAJ)
+- [Gabriel A. Carranco-Sapiéns](https://scholar.google.com/citations?user=OaoZbogAAAAJ)
 - [Vassilios Constantoudis](https://scholar.google.com/citations?user=inAQex0AAAAJ)
 - [Fotis K. Diakonos](http://users.uoa.gr/~fdiakono/)
 - [Jorge Flores](http://www.ccciencias.mx/es/component/spsimpleportfolio/item/29-jorge-flores-valdes.html)
