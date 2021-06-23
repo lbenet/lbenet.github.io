@@ -27,7 +27,7 @@ simply get in touch [with me](/#contact).
 - Evelyn Álvarez Cruz ([BSc thesis](http://132.248.9.195/ptd2019/febrero/0785170/0785170.pdf)); MSc student at IIMAS, UNAM
 - Alaín Acevedo Mejía (MSc)
 - [Blas Kolic](https://www.maths.ox.ac.uk/people/blas.kolic) ([BSc thesis](http://132.248.9.195/ptd2018/abril/0772678/0772678.pdf); PhD student at University of Oxford
-- [Adrian Ortega](https://scholar.google.com/citations?user=cF9iYi4AAAAJ) (postdoc, [PhD thesis](http://132.248.9.195/ptd2017/octubre/0766239/0766239.pdf); Msc); posdoc at Universidad de Guadalajara
+- [Adrian Ortega](https://scholar.google.com/citations?user=cF9iYi4AAAAJ) (postdoc, [PhD thesis](http://132.248.9.195/ptd2017/octubre/0766239/0766239.pdf); Msc); [postdoc](https://qi.nemzetilabor.hu/people/hugo-adrian-ortega-rosales) at Quantum Information national Lab, Hungary
 - [Ignalcio Loaiza](https://scholar.google.com/citations?user=oi3hzE8AAAAJ) ([BSc thesis](http://132.248.9.195/ptd2017/junio/0760188/0760188.pdf)); PhD student at University of Toronto
 - [Manan Vyas](https://www.fis.unam.mx/directorio/851/manan-strong-vyas-strong) (postdoc); colleague at ICF, UNAM
 - [Irving Reyna Nolasco](https://cemse.kaust.edu.sa/people/person/irving-enrique-reyna-nolasco) ([BSc thesis](http://132.248.9.195/ptd2014/diciembre/0723850/0723850.pdf)); PhD student at KAUST
