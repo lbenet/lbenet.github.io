@@ -10,6 +10,8 @@
 
 ## Refereed journals
 
+- \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, in press (2021). \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
+
 - \biblabel{2020Covid19}{} R.H. Mena, J.X. Velasco-Hernández, N.B. Mantilla-Beniers, G.A. Carranco-Sapiéns, \LB, D. Boyer, I. Pérez Castillo\\ Using posterior predictive distributions to analyse epidemic models: COVID-19 in Mexico City\\ \it{Physical Biology}, \bf{17} (2020), 065001. \doi{10.1088/1478-3975/abb115} \arXiv{2005.02294}
 
 - \biblabel{2020OSBL}{} A. Ortega, T. Stegmann, \LB and H. Larralde\\ Spectral and transport properties of a simple $\mathcal{PT}$-symmetric tight-binding chain with gain and loss\\ \it{J. Phys. A: Math. Theor.}, \bf{53} (2020), 445308. \doi{10.1088/1751-8121/abb513} \arXiv{1906.10116}
@@ -56,7 +58,7 @@
 
 - \biblabel{2007BCKQ}{} \LB, L.T. Chadderton, S.Yu. Kun and Wang Qi\\ Quantum-classical transition for an analog of double-slit experiment in complex collisions: Dynamical decoherence in quantum many-body systems\\ \it{Phys. Rev. A} \bf{75} (2007), 062110 (5 pages). \doi{10.1103/PhysRevA.75.062110} \arXiv{quant-ph/0610091}
 
-- \biblabel{2007MB}{} O. Merlo and \LB\\Strands and braids in narrow planetary rings: A scattering system approach\\ \it{Cel. Mech. Dyn. Astron.} \bf{97} (2007), 49--72. \doi{10.1007/s10569-006-9051-8} \arXiv{astro-ph/0609627}
+- \biblabel{2007MB}{} O. Merlo and \LB\\ Strands and braids in narrow planetary rings: A scattering system approach\\ \it{Cel. Mech. Dyn. Astron.} \bf{97} (2007), 49--72. \doi{10.1007/s10569-006-9051-8} \arXiv{astro-ph/0609627}
 
 - \biblabel{2006BKQ}{} \LB, S.Yu. Kun and Wang Qi\\ Effect of phase relaxation on quantum superpositions in complex collisions\\ \it{Phys. Rev. C} \bf{73} (2006), 064602 (7 pages). \doi{10.1103/PhysRevC.73.064602} \arXiv{quant-ph/0503046}
 
@@ -113,14 +115,18 @@
 
 ## Book chapters and proceedings
 
+- \biblabel{2020ARCH-AINNCS}{} Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer and Insup Lee\\ ARCH-COMP20 Category Report: Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021) pp 90--119. \doi{10.29007/kfk9} \pdf{https://easychair.org/publications/paper/Jq4h}
+
+- \biblabel{2021ARCH-COMP}{} Luca Geretti, Julien Alexandre Dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, Edward Kim, Uziel Linares, David P. Sanders, Christian Schilling and Mark Wetzlinger\\ ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021), pp 32--54. \doi{10.29007/2jw8} \pdf{https://easychair.org/publications/paper/GWwz}
+
 - \biblabel{2020Yark}{} J.A. Pérez-Hernández and \LB\\ The Yarkovsky effect for (99942) Apophis and observational predictions for the upcoming 2020–2021 close approach to Earth\\ American Astronomical Society Division on Dynamical Astronomy meeting #51, id. P13. BAAS Vol. 52, No. 4 (2020). \pdf{https://baas.aas.org/pub/2020n4i104p02}
 
 - \biblabel{2020ARCH-COMP}{} L. Geretti, J. Alexandre Dit Sandretto, M. Althoff, \LB, A. Chapoutot, X. Chen, P. Collins, M. Forets, D. Freire, F. Immler, N. Kochdumper, D.P. Sanders and C. Schilling\\ ARCH-COMP20 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics\\ in "ARCH20. 7th International Workshop on Applied Verification of Continuous and Hybrid Systems", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 74 (2020), pp 49--75. \doi{10.29007/zkf6} \pdf{https://easychair.org/publications/paper/nrdD}
 
 - \biblabel{2019ARCH-COMP}{} F. Immler, M. Althoff, \LB, A. Chapoutot, X. Chen, M. Forets, L. Geretti, N. Kochdumper, D.P. Sanders, and C. Schilling\\ ARCH-COMP19 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics\\ in "ARCH19. 6th International Workshop on Applied Verification of Continuous and Hybrid Systems", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 61 (2019), pp 41--61. \doi{10.29007/m75b} \pdf{https://easychair.org/publications/paper/4FSh}
 
-<!-- 
-- \biblabel{2019Yark}{} J.A. Pérez-Hernández and \LB\\ Effect of the Yarkovsky transverse parameter on radar astrometry for asteroid (99942) Apophis\\ American Astronomical Society Division on Dynamical Astronomy meeting #50, id. P13. BAAS Vol. 51, No. 5 (2019). \pdf{https://baas.aas.org/wp-content/uploads/2019/06/dda50_abstracts.pdf#absP13} 
+<!--
+- \biblabel{2019Yark}{} J.A. Pérez-Hernández and \LB\\ Effect of the Yarkovsky transverse parameter on radar astrometry for asteroid (99942) Apophis\\ American Astronomical Society Division on Dynamical Astronomy meeting #50, id. P13. BAAS Vol. 51, No. 5 (2019). \pdf{https://baas.aas.org/wp-content/uploads/2019/06/dda50_abstracts.pdf#absP13}
 
 - \biblabel{2018Lyap}{} J.A. Pérez-Hernández and \LB\\ The Lyapunov spectrum of Halley's comet\\ American Astronomical Society, DPS meeting 50, id.209.03 (2018). \pdf{https://ui.adsabs.harvard.edu/abs/2018DPS....5020903P}
 -->

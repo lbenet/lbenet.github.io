@@ -8,21 +8,21 @@
 
 ## Current students and postdocs
 
-- [Jorge Chávez Carlos](https://scholar.google.com/citations?user=RrAHRMkAAAAJ) (postdoc)
-- [Jorge A. Pérez Hernández](https://scholar.google.com/citations?user=ulksu3gAAAAJ) ([PhD thesis](http://132.248.9.195/ptd2021/febrero/0808716/Index.html), [MSc thesis](http://132.248.9.195/ptd2015/junio/0730443/Index.html), BSc thesis)
 - J. Ernesto Carro (PhD student, [MSc thesis](http://132.248.9.195/ptd2018/octubre/0781161/Index.html))
 - Julián Ramírez Castro (BSc student)
-- [Uziel Linares](https://github.com/UzielLinares) (GSoC student)
 
 
 If you are interested in the possibility of a postdoctoral position, PhD thesis, a
-master's or undergraduate project in one of [my research areas](/#research_interests), 
-or you have interest in contributing to our [packages in Julia](/software), 
+master's or undergraduate project in one of [my research areas](/#research_interests),
+or you have interest in contributing to our [packages in Julia](/software),
 simply get in touch [with me](/#contact).
 
 
 ## Former students and postdocs
 
+- [Jorge Chávez Carlos](https://scholar.google.com/citations?user=RrAHRMkAAAAJ) (postdoc)
+- [Jorge A. Pérez Hernández](https://scholar.google.com/citations?user=ulksu3gAAAAJ) ([PhD thesis](http://132.248.9.195/ptd2021/febrero/0808716/Index.html), [MSc thesis](http://132.248.9.195/ptd2015/junio/0730443/Index.html), BSc thesis)
+- Uziel Linares (GSoC student)
 - Walter S. Ortiz ([MSc thesis](http://riaa.uaem.mx/xmlui/bitstream/handle/20.500.12055/496/OIGWRL05T.pdf?sequence=1&isAllowed=y)); PhD student at UAEM
 - Evelyn Álvarez Cruz ([BSc thesis](http://132.248.9.195/ptd2019/febrero/0785170/0785170.pdf)); MSc student at IIMAS, UNAM
 - Alaín Acevedo Mejía (MSc)
@@ -44,7 +44,7 @@ simply get in touch [with me](/#contact).
 
 ## Coauthors
 
-<!-- I have had de great pleasure and opportunity to learn and collaborate from a number 
+<!-- I have had de great pleasure and opportunity to learn and collaborate from a number
 of great scientists. -->
 
 - Tomoko Asaga
@@ -78,7 +78,7 @@ of great scientists. -->
 - Thomas Rupp
 - [Daniel Sahagún](https://www.fisica.unam.mx/es/personal.php?id=540)
 - [David P. Sanders](https://sistemas.fciencias.unam.mx/~dsanders/)
-- [Christian Schilling](https://swt.informatik.uni-freiburg.de/staff/christian_schilling)
+- [Christian Schilling](https://schillic.github.io/)
 - [Peter Schmelcher](https://www1.physik.uni-hamburg.de/en/ilp/schmelcher.html)
 - [Thomas H. Seligman](https://www.fis.unam.mx/directorio/42/thomas-h-strong-seligman-strong-schurch)
 - [Thomas Stegmann](https://www.fis.unam.mx/directorio/697/thomas-strong-stegmann-strong)
