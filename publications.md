@@ -10,7 +10,7 @@
 
 ## Refereed journals
 
-- \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, in press (2021). \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
+- \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, {\bf 55} (2022), 015304. \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
 
 - \biblabel{2020Covid19}{} R.H. Mena, J.X. Velasco-Hernández, N.B. Mantilla-Beniers, G.A. Carranco-Sapiéns, \LB, D. Boyer, I. Pérez Castillo\\ Using posterior predictive distributions to analyse epidemic models: COVID-19 in Mexico City\\ \it{Physical Biology}, \bf{17} (2020), 065001. \doi{10.1088/1478-3975/abb115} \arXiv{2005.02294}
 
