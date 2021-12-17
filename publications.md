@@ -10,7 +10,7 @@
 
 ## Refereed journals
 
-- \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, {\bf 55} (2022), 015304. \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
+- \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, \bf{55} (2022), 015304. \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
 
 - \biblabel{2020Covid19}{} R.H. Mena, J.X. Velasco-Hernández, N.B. Mantilla-Beniers, G.A. Carranco-Sapiéns, \LB, D. Boyer, I. Pérez Castillo\\ Using posterior predictive distributions to analyse epidemic models: COVID-19 in Mexico City\\ \it{Physical Biology}, \bf{17} (2020), 065001. \doi{10.1088/1478-3975/abb115} \arXiv{2005.02294}
 
@@ -115,7 +115,7 @@
 
 ## Book chapters and proceedings
 
-- \biblabel{2020ARCH-AINNCS}{} Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer and Insup Lee\\ ARCH-COMP20 Category Report: Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021) pp 90--119. \doi{10.29007/kfk9} \pdf{https://easychair.org/publications/paper/Jq4h}
+- \biblabel{2021ARCH-AINNCS}{} Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer and Insup Lee\\ ARCH-COMP21 Category Report: Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021) pp 90--119. \doi{10.29007/kfk9} \pdf{https://easychair.org/publications/paper/Jq4h}
 
 - \biblabel{2021ARCH-COMP}{} Luca Geretti, Julien Alexandre Dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, Edward Kim, Uziel Linares, David P. Sanders, Christian Schilling and Mark Wetzlinger\\ ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021), pp 32--54. \doi{10.29007/2jw8} \pdf{https://easychair.org/publications/paper/GWwz}
 
