@@ -10,7 +10,7 @@
 
 ## Refereed journals
 
-- \biblatex{2022PHB}{} Jorge A. Pérez-Hernández and \LB\\ Non-zero Yarkovsky acceleration for near-Earth asteroid (99942) Apophis\\ \it{Commun. Earth \& Environment} \bf{3} (2022), Art. Num. 10. \doi{10.1038/s43247-021-00337-x}
+- \biblabel{2022PHB}{} Jorge A. Pérez-Hernández and \LB\\ Non-zero Yarkovsky acceleration for near-Earth asteroid (99942) Apophis\\ \it{Commun. Earth \& Environment} \bf{3} (2022), Art. Num. 10. \doi{10.1038/s43247-021-00337-x}
 
 - \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, \bf{55} (2022), 015304. \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
 
