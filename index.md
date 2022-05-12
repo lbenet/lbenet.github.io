@@ -9,11 +9,10 @@
 ## About me
 
 I was born in Mexico. I studied Physics at the Facultad de Ciencias, UNAM (Mexico)
-and I completed my PhD in Theoretical Physics at the University of Basel. I was postdoc 
-of Thomas Seligman in Cuernavaca, where I currently have a permanent position as
-Associate Professor, and also in the group of Hans A. Weidenmüller at the Max 
-Planck Institut für Kernphysik in Heidelberg.
-
+and I completed my PhD in Theoretical Physics at the University of Basel. I was postdoc of Thomas Seligman in Cuernavaca, and also in the group of Hans A. Weidenmüller at the Max Planck Institut für Kernphysik in Heidelberg.
+I have a permanent position as Associate Professor
+at the [Instituto de Ciencias Físicas](https://www.fis.unam.mx),
+[UNAM](https://www.unam.mx).
 
 ## Research interests
 
@@ -25,9 +24,9 @@ Planck Institut für Kernphysik in Heidelberg.
 > J. Ford (quoted [in a paper](https://www.sciencedirect.com/science/article/abs/pii/S0167278998900148) by Robert H.G. Helleman)
 
 I am interested in Random Matrix Theory, quantum chaos, interacting quantum many-body
-systems, ergodicity, hamiltonian dynamics, chaotic scattering, classical and quantum 
-transport, disordered systems, billiards, structure and stability of narrow 
-planetary rings, Solar System dynamics, dynamics of minor planetary objects (NEOs and NEAs), 
+systems, ergodicity, hamiltonian dynamics, chaotic scattering, classical and quantum
+transport, disordered systems, billiards, structure and stability of narrow
+planetary rings, Solar System dynamics, dynamics of minor planetary objects (NEOs and NEAs),
 precise and *mathematically* rigorous numerical calculations.
 
 

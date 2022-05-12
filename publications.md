@@ -10,9 +10,9 @@
 
 ## Refereed journals
 
-- \biblabel{2022PHB}{} Jorge A. Pérez-Hernández and \LB\\ Non-zero Yarkovsky acceleration for near-Earth asteroid (99942) Apophis\\ \it{Commun. Earth \& Environment} \bf{3} (2022), Art. Num. 10. \doi{10.1038/s43247-021-00337-x}
+- \biblabel{2022PHB}{} Jorge A. Pérez-Hernández and \LB\\ Non-zero Yarkovsky acceleration for near-Earth asteroid (99942) Apophis\\ \it{Commun. Earth & Environment} \bf{3} (2022), Art. Num. 10. \doi{10.1038/s43247-021-00337-x} (*open access*)
 
-- \biblabel{2021OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, \bf{55} (2022), 015304. \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286}
+- \biblabel{2022OBL}{} A. Ortega, \LB and H. Larralde\\ Spectra, eigenstates and transport properties of a $\mathcal{PT}$-symmetric ring\\ \it{J. Phys A: Math. Theor.}, \bf{55} (2022), 015304. \doi{10.1088/1751-8121/ac39ce} \arXiv{2107.00286} (*open access*)
 
 - \biblabel{2020Covid19}{} R.H. Mena, J.X. Velasco-Hernández, N.B. Mantilla-Beniers, G.A. Carranco-Sapiéns, \LB, D. Boyer, I. Pérez Castillo\\ Using posterior predictive distributions to analyse epidemic models: COVID-19 in Mexico City\\ \it{Physical Biology}, \bf{17} (2020), 065001. \doi{10.1088/1478-3975/abb115} \arXiv{2005.02294}
 

@@ -14,7 +14,7 @@
 
 If you are interested in the possibility of a postdoctoral position, PhD thesis, a
 master's or undergraduate project in one of [my research areas](/#research_interests),
-or you have interest in contributing to our [packages in Julia](/software),
+or you have interest in contributing to [our packages](/software) in Julia,
 simply get in touch [with me](/#contact).
 
 
