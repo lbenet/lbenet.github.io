@@ -10,6 +10,7 @@
 
 - J. Ernesto Carro (PhD student, [MSc thesis](http://132.248.9.195/ptd2018/octubre/0781161/Index.html))
 - Julián Ramírez Castro (BSc student)
+- Andres Ramos Arzate (BSc student)
 
 
 If you are interested in the possibility of a postdoctoral position, PhD thesis, a
@@ -35,7 +36,7 @@ simply get in touch [with me](/#contact).
 - Hugo Tlahuext Aca (BSc)
 - Claudia Hernández Mena (PhD); lecturer at ITESM-Puebla
 - Saúl Hernández Quiroz (PhD, [BSc thesis](http://132.248.9.195/pd2007/0616059/0616059.pdf))
-- [Francisco González Montoya](https://www.researchgate.net/profile/Francisco_Gonzalez_Montoya) ([MSc thesis](http://132.248.9.195/ptb2010/octubre/0663841/0663841.pdf)<!--([MSc thesis](http://132.248.9.195/ptd2013/Presenciales/0689996/0689996.pdf)-->); research associate at Univeristy of Bristol
+- [Francisco González Montoya](https://scholar.google.com/citations?user=eylbVZwAAAAJ) ([MSc thesis](http://132.248.9.195/ptb2010/octubre/0663841/0663841.pdf)<!--([MSc thesis](http://132.248.9.195/ptd2013/Presenciales/0689996/0689996.pdf)-->); research associate at Univeristy of Bristol
 - Stefan Mossman (postdoc)
 - [Olivier Merlo](https://www.zhaw.ch/en/about-us/person/mero/) (postdoc); lecturer at Zurich University of Applied Sciences
 - Jürg Broch (MSc)
@@ -53,7 +54,7 @@ of great scientists. -->
 - [Gabriel A. Carranco-Sapiéns](https://scholar.google.com/citations?user=OaoZbogAAAAJ)
 - [Vassilios Constantoudis](https://scholar.google.com/citations?user=inAQex0AAAAJ)
 - [Fotis K. Diakonos](http://users.uoa.gr/~fdiakono/)
-- [Jorge Flores](http://www.ccciencias.mx/es/component/spsimpleportfolio/item/29-jorge-flores-valdes.html)
+- [Jorge Flores](https://es.wikipedia.org/wiki/Jorge_Flores_Vald%C3%A9s)
 - [Marcelo Forets](https://mforets.github.io/)
 - [Hugo Hernández-Saldaña](https://scholar.google.com/citations?user=Vy5OLakAAAAJ)
 - [Felix M. Izrailev](http://www.ifuap.buap.mx/investigadores/perfil.php?ind=izrailev)

@@ -21,4 +21,8 @@ The following are some Julia packages for scientific computing where I have been
 
 - [ValidatedNumerics.jl](https://github.com/JuliaIntervals/ValidatedNumerics.jl): Umbrela package for rigorous floating-point calculations with interval arithmetic in Julia. D.P. Sanders and \LB \doi{10.5281/zenodo.593768}
 
+- [PlanetaryEphemeris.jl](https://github.com/PerezHz/PlanetaryEphemeris.jl): Solar System ephemeris Taylor integrator based on JPL DE430/431 dynamical model. J.A. Pérez-Hernández and \LB \doi{10.5281/zenodo.5152451}
+
+- [NEOs.jl](https://github.com/PerezHz/NEOs.jl): Jet transport-based Near-Earth Object orbital propagator and fitter in Julia. J.A. Pérez-Hernández and \LB \doi{10.5281/zenodo.5152449}
+
 See also [JuliaIntervals](https://juliaintervals.github.io/) and [JuliaReach](https://juliareach.github.io/) web pages.

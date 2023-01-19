@@ -117,6 +117,10 @@
 
 ## Book chapters and proceedings
 
+- \biblabel{2022ARCH-AINNCS}{} Diego Manzanas Lopez, Matthias Althoff, Luis Benet, Xin Chen, Jiameng Fan, Marcelo Forets, Chao Huang, Taylor T. Johnson, Tobias Ladner, Wenchao Li, Christian Schilling and Qi Zhu\\ ARCH-COMP22 Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants\\ in "9th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH22)", Goran Frehse, Matthias Althoff, Erwin Schoitsch and Jeremie Guiochet (eds.), EPiC Series in Computing vol 90 (2022), pp 142--184. \doi{10.29007/wfgr} \pdf{https://easychair.org/publications/paper/C1J8}
+
+- \biblabel{2022ARCH-COMP}{} Luca Geretti, Julien Alexandre Dit Sandretto, Matthias Althoff, Luis Benet, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, Edward Kim, Stefan Mitsch, Christian Schilling and Mark Wetzlinger\\ ARCH-COMP22 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics\\ in "9th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH22)", Goran Frehse, Matthias Althoff, Erwin Schoitsch and Jeremie Guiochet (eds.), EPiC Series in Computing vol 90 (2022), pp 86--112. \doi{10.29007/fnzc} \pdf{https://easychair.org/publications/paper/JrQ4}
+
 - \biblabel{2021ARCH-AINNCS}{} Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer and Insup Lee\\ ARCH-COMP21 Category Report: Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021) pp 90-119. \doi{10.29007/kfk9} \pdf{https://easychair.org/publications/paper/Jq4h}
 
 - \biblabel{2021ARCH-COMP}{} Luca Geretti, Julien Alexandre Dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, Edward Kim, Uziel Linares, David P. Sanders, Christian Schilling and Mark Wetzlinger\\ ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics\\ in "8th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH21)", Goran Frehse and Matthias Althoff (eds.), EPiC Series in Computing vol 80 (2021), pp 32-54. \doi{10.29007/2jw8} \pdf{https://easychair.org/publications/paper/GWwz}
@@ -180,4 +184,4 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=GQgSlwoAAAAJ)\\
 [Orcid](https://orcid.org/0000-0002-8470-9054)\\
-[ResearcherId](https://publons.com/researcher/1473803/luis-benet/)
+[ResearcherId](https://www.webofscience.com/wos/author/rid/C-3323-2009)
