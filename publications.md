@@ -10,6 +10,8 @@
 
 ## Refereed journals
 
+- \biblabel{}{} \LB, F. Borgonovi, F.M. Izrailev, and L.F. Santos\\ Quantum-classical correspondence of strongly chaotic many-body spin models\\ \it{Phys. Rev. B} \bf{107}, (2023) 155143. \doi{10.1103/PhysRevB.107.155143} \arXiv{2211.10451}
+
 - \biblabel{2023CBPC}{} E. Carro, \LB~and I. Pérez Castillo\\ A smooth transition towards a Tracy-Widom distribution for the largest eigenvalue of interacting $k$-body fermionic Embedded Gaussian Ensembles\\ \it{J. Stat. Mech.} \bf{2023} (2023), 043201. \doi{10.1088/1742-5468/acc4b4} (*open access*)
 
 - \biblabel{2022PHB}{} Jorge A. Pérez-Hernández and~\LB\\ Non-zero Yarkovsky acceleration for near-Earth asteroid (99942) Apophis\\ \it{Commun. Earth & Environment} \bf{3} (2022), Art. Num. 10. \doi{10.1038/s43247-021-00337-x} (*open access*)
@@ -119,7 +121,7 @@
 
 ## Book chapters and proceedings
 
-- \biblabel{2023-PPAM22}{} Nathalie Revol, Luis Benet, Luca Ferranti and Sergey Zhilin\\ Testing interval arithmetic libraries, including their IEEE-1788 compliance\\ in "Parallel Processing and Applied Mathematics (PPAM 2022)", R. Wyrzykowski et al. (eds.), Lecture Notes in Computer Science vol 13827 (2023), chapter 36, pp 1-13. \doi{10.1007/978-3-031-30445-3\_36}
+- \biblabel{2023-PPAM22}{} Nathalie Revol, Luis Benet, Luca Ferranti and Sergey Zhilin\\ Testing interval arithmetic libraries, including their IEEE-1788 compliance\\ in "Parallel Processing and Applied Mathematics (PPAM 2022)", R. Wyrzykowski et al. (eds.), Lecture Notes in Computer Science vol 13827 (2023), chapter 36, pp 428-440. \doi{10.1007/978-3-031-30445-3\_36}
 
 - \biblabel{2022ARCH-AINNCS}{} Diego Manzanas Lopez, Matthias Althoff, Luis Benet, Xin Chen, Jiameng Fan, Marcelo Forets, Chao Huang, Taylor T. Johnson, Tobias Ladner, Wenchao Li, Christian Schilling and Qi Zhu\\ ARCH-COMP22 Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants\\ in "9th International Workshop on Applied Verification of Continuous and Hybrid Systems (ARCH22)", Goran Frehse, Matthias Althoff, Erwin Schoitsch and Jeremie Guiochet (eds.), EPiC Series in Computing vol 90 (2022), pp 142--184. \doi{10.29007/wfgr} \pdf{https://easychair.org/publications/paper/C1J8}
 
