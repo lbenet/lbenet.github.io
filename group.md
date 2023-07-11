@@ -11,6 +11,7 @@
 - J. Ernesto Carro (PhD student, [MSc thesis](http://132.248.9.195/ptd2018/octubre/0781161/Index.html))
 - Julián Ramírez Castro (BSc student)
 - Andres Ramos Arzate (BSc student)
+- Luis Eduardo Ramírez Montoya (MSc student)
 
 
 If you are interested in the possibility of a postdoctoral position, PhD thesis, a
@@ -27,7 +28,7 @@ simply get in touch [with me](/#contact).
 - Walter S. Ortiz ([MSc thesis](http://riaa.uaem.mx/xmlui/bitstream/handle/20.500.12055/496/OIGWRL05T.pdf?sequence=1&isAllowed=y)); PhD student at UAEM
 - Evelyn Álvarez Cruz ([BSc thesis](http://132.248.9.195/ptd2019/febrero/0785170/0785170.pdf)); MSc student at IIMAS, UNAM
 - Alaín Acevedo Mejía (MSc)
-- [Blas Kolic](https://www.maths.ox.ac.uk/people/blas.kolic) ([BSc thesis](http://132.248.9.195/ptd2018/abril/0772678/0772678.pdf); PhD student at University of Oxford
+- [Blas Kolic](https://www.maths.ox.ac.uk/people/blas.kolic) ([BSc thesis](http://132.248.9.195/ptd2018/abril/0772678/0772678.pdf)); postdoctoral fellow at [IMDEA Networks and IBiDat Institute at Universidad Carlos III de Madrid](https://www.inet.ox.ac.uk/people/blas-kolic/)
 - [Adrian Ortega](https://scholar.google.com/citations?user=cF9iYi4AAAAJ) (postdoc, [PhD thesis](http://132.248.9.195/ptd2017/octubre/0766239/0766239.pdf); Msc); [postdoc](https://qi.nemzetilabor.hu/people/hugo-adrian-ortega-rosales) at Wigner Research Center for Physics, Quantum Information National Lab, Hungary
 - [Ignalcio Loaiza](https://scholar.google.com/citations?user=oi3hzE8AAAAJ) ([BSc thesis](http://132.248.9.195/ptd2017/junio/0760188/0760188.pdf)); PhD student at University of Toronto
 - [Manan Vyas](https://www.fis.unam.mx/directorio/851/manan-strong-vyas-strong) (postdoc); colleague at ICF, UNAM
