@@ -10,7 +10,7 @@
 
 I was born in Mexico. I studied Physics at the Facultad de Ciencias, UNAM (Mexico)
 and I completed my PhD in Theoretical Physics at the University of Basel. I was postdoc of Thomas Seligman in Cuernavaca, and also in the group of Hans A. Weidenmüller at the Max Planck Institut für Kernphysik in Heidelberg.
-I have a permanent position as Associate Professor
+I am Full Professor
 at the [Instituto de Ciencias Físicas](https://www.fis.unam.mx),
 [UNAM](https://www.unam.mx).
 

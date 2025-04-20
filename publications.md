@@ -9,6 +9,7 @@
 
 
 ## Refereed journals
+- \biblabel{2025RMHPB}{} L.E. Ramírez Montoya, J. Pérez Hernández and \LB\\ Jet transport applications to the preliminary orbit determination problem\\ \it{Celest. Mech. Dyn. Astron.} \bf{137} (2025), 16. \doi{10.1007/s10569-025-10246-2} (*open access*)
 
 - \biblabel{2024GFSFB}{} A. Gray, M. Forets, C. Schilling, S. Ferson and \LB\\ Verified propagation of imprecise probabilities in non-linear ODEs\\ \it{Int. J. Approx. Reason.} \bf{164} (2024), 109044. \doi{10.1016/j.ijar.2023.109044} (*open access*)
 
